@@ -25,7 +25,7 @@ Una aplicación web simple que permite a los usuarios crear una lista de nombres
 1. Clona este repositorio:
 
    ```bash
-   clone https://github.com/zelys/app-amigo-secreto.git
+   git clone https://github.com/zelys/app-amigo-secreto.git
    ```
 
 1. Navega al directorio del proyecto:
